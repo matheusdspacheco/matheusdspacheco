@@ -1,6 +1,8 @@
 ### Hello! I'm Matheus Pacheco
 ### Olá! Eu sou o Matheus Pacheco
 
+<hr>
+
 <!--
 **matheusdspacheco/matheusdspacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
